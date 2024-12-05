@@ -40,7 +40,7 @@ Check out the app here: [MovieLand](https://movieland-five-xi.vercel.app/)
 3. **Run the development server**
 
    ```bash
-   npm start
+   npm run dev
    ```
 
 4. Open [http://localhost:3000](http://localhost:3000) to explore the app locally.
